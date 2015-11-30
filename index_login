@@ -1,0 +1,311 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundation | Welcome</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/app.css" />
+  </head>
+<body>
+
+<div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small">
+<button class="menu-icon" type="button" data-toggle></button>
+<div class="title-bar-title">Menu</div>
+</div>
+
+<div class="top-bar" id="realEstateMenu">
+<div class="top-bar-left">
+<ul class="menu" data-responsive-menu="accordion">
+<li class="menu-text"><img src="img/tagee_logo.png" alt="Logo" width="30"></li>
+</ul>
+</div>
+<div class="top-bar-right">
+    <ul class="dropdown menu" data-dropdown-menu>
+<li><a href="#">Favorite</a></li>
+<li><a href="#">Sports</a></li>
+      <li class="has-submenu">
+        <a href="#">Trending</a>
+        <ul class="submenu menu vertical" data-submenu>
+          <li><a href="#">One</a></li>
+          <li><a href="#">Two</a></li>
+          <li><a href="#">Three</a></li>
+        </ul>
+      </li>
+<li><a href="#">Tagspot Channels</a></li>
+<li><a href="#">Tagee</a></li>
+    </ul>
+</div>
+</div>
+
+ 
+<div class="callout large">
+<div class="row column text-center">
+<h1>GET TAGGED INTO THE CONVERSATION.</h1>
+<p class="lead">SEE WHAT EVERYONE IS TALKING ABOUT ON SOCIAL MEDIA.</p>
+<a href="#" class="button large" data-open="login_signup">Sign up</a>
+<a href="#" class="button large hollow" data-open="login_signup">Log in</a>
+</div>
+</div>
+<div class="row">
+
+<div class="medium-6 columns medium-push-6">
+<label>Explore</label>
+      <div class="row collapse">
+<div class="input-group">
+    <span class="input-group-label">#</span>
+    <input type="url" class="input-group-field">
+    <a class="input-group-button button">Search</a>
+  </div>
+      </div>
+</div>
+<div class="medium-6 columns medium-pull-6">
+
+<label>Filter
+<select>
+<option value="husker">Facebook</option>
+<option value="starbuck">Instagram</option>
+<option value="hotdog">Twitter</option>
+</select>
+</label>
+
+</div>
+</div>
+
+<hr>
+<div class="row column">
+<ul class="vertical medium-horizontal menu expanded text-center">
+<li><a href="#"><div class="stat">28</div><span>#Tidal</span></a></li>
+<li><a href="#"><div class="stat">76</div><span>#Lebron</span></a></li>
+<li><a href="#"><div class="stat">95</div><span>#76ers</span></a></li>
+<li><a href="#"><div class="stat">59</div><span>#Whatarethose</span></a></li>
+<li><a href="#"><div class="stat">18</div><span>#Kanyewest</span></a></li>
+</ul>
+<div class="slider show-for-medium" data-slider data-initial-start='50' data-end='200'>
+  <span class="slider-handle"  data-slider-handle role="slider" tabindex="1"></span>
+  <span class="slider-fill" data-slider-fill></span>
+  <input type="hidden">
+</div>
+</div>
+<hr>
+<div class="row column">
+</div>
+<div class="row medium-up-3 large-up-4">
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+<div class="column">
+<div class="callout">
+<p>Pegasi B</p>
+<p><img class="thumbnail" src="http://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+<p class="lead">Copernican Revolution caused an uproar</p>
+<p class="subheader">Find Earth-like planets life outside the Solar System</p>
+</div>
+</div>
+</div>
+<div class="row column">
+<a class="button hollow expanded">Load More</a>
+</div>
+<div class="row column">
+<hr>
+<ul class="menu">
+<li><img src="img/tagee_logo.png" alt="Logo" width="30"></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+<li class="float-right">Copyright 2016</li>
+</ul>
+</div>
+
+
+<div class="reveal collapse" id="login_signup" data-reveal>
+<ul class="tabs" data-tabs id="example-tabs">
+  <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Sign up</a></li>
+  <li class="tabs-title"><a href="#panel2">Log in</a></li>
+</ul>
+
+<div class="tabs-content" data-tabs-content="example-tabs">
+  <button class="close-button" data-close aria-label="Close reveal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  <div class="tabs-panel is-active" id="panel1">
+  <p class="lead text-center">Get Tagged into the conversation</p>
+
+      <form>
+      <ol class="large-6 columns">
+  <li>Link your social media accounts!
+<div class="small secondary expanded button-group">
+<a class="button">Facebook</a>
+<a class="button">Twitter</a>
+<a class="button">Instagram</a>
+</div>
+  </li>
+  <li>Identify my gender as
+  <div class="small secondary expanded button-group">
+<a class="button">Male</a>
+<a class="button">Female</a>
+<a class="button">Trans</a>
+</div>
+  </li>
+   <li>Age
+<div class="input-group">
+    <input type="url" class="input-group-field">
+  </div>
+  </li>
+  </ol>
+
+  
+  <div class="large-5 columns">
+<div class="input-group">
+
+<div class="row">
+      <input type="text" placeholder="Email">
+  </div>
+  <div class="row">
+      <input type="text" placeholder="Password">
+  </div>
+  <div class="row">
+      <input type="text" placeholder="Verify Password">
+  </div>
+   
+  </div>
+
+  </div>
+  </form>
+  <div>
+  
+  
+<div class="row">
+<form>
+    <fieldset class="large-12 columns">
+      <input type="checkbox" name="privacypolicy" value="Red" id="privacypolicy" required=""><label for="privacypolicy">Privacy Policy</label>
+    </fieldset>
+    </form>
+    </div>
+</div>
+  </div>
+  <div class="tabs-panel" id="panel2">
+<div class="media-object">
+  <div class="media-object-section">
+    <img src= "http://placeimg.com/200/200/people">
+  </div>
+  <div class="media-object-section">
+    <p class="lead">Get Tagged into the conversation</p>
+    <div class="row">
+      <input type="text" placeholder="username or email" id="top-label">
+  </div>
+      <div class="row">
+      <input type="text" placeholder="password" id="middle-label">
+  </div>
+  <div class="row">
+    <fieldset>
+      <input type="checkbox" required="" id="rememberMe" value="Red" name="remember"><label for="rememberMe">Remember me next time</label>
+    </fieldset>
+    </div>
+      <div class="row">
+<a href="#">Forgot password? Click here</a>
+    </div>
+  </div>
+</div>
+  </div>
+  
+</div>
+    <script src="js/vendor/jquery.min.js"></script>
+    <script src="js/vendor/what-input.min.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/app.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script><script>
+      $(document).foundation();
+    </script><script>
+      $(document).foundation();
+    </script><script>
+      $(document).foundation();
+    </script></body>
+</html>

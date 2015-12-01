@@ -10,6 +10,12 @@
   </head>
 <body>
  
+ <div data-sticky-container="" class="sticky-container">
+  <div data-btm-anchor="destroy:bottom" data-top-anchor="setup" data-margin-bottom="0" data-margin-top="0" data-sticky="rbfh1r-sticky" style="width: 100%;  margin-top: 0em; top: 0px; bottom: auto;" id="sticky-magellan" class="sticky is-at-top is-stuck" data-resize="sticky-magellan" data-events="resize">
+    <div class="sticky-mag stuck-mag" data-magellan="3c5pva-magellan" data-resize="ui168x-magellan" data-scroll="ui168x-magellan" id="ui168x-magellan" data-events="resize">
+
+
+
 <div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small">
 <button class="menu-icon" type="button" data-toggle></button>
 <div class="title-bar-title">Menu</div>
@@ -40,6 +46,12 @@
 </div>
 
 
+
+    </div>
+  </div>
+</div>
+
+<br><br>
 <div class="callout large">
 <div class="row column text-center">
 <h1>GET TAGGED INTO THE CONVERSATION.</h1>
@@ -202,11 +214,11 @@
 <li class="float-right">Copyright 2016</li>
 </ul>
 </div>
-    <script src="js/vendor/jquery.min.js"></script>
+      <script src="js/vendor/jquery.min.js"></script>
     <script src="js/vendor/what-input.min.js"></script>
     <script src="js/foundation.min.js"></script>
     <script src="js/app.js"></script>
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
 <script>
       $(document).foundation();

@@ -19,17 +19,17 @@
 
 <div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small">
 <button class="menu-icon" type="button" data-toggle></button>
-<div class="title-bar-title">Menu</div>
+<div class="title-bar-title"><img src="img/tagee_logo.png" alt="Logo" width="30"></div>
 </div>
 
 <div class="top-bar" id="realEstateMenu">
 <div class="top-bar-left">
 <ul class="menu" data-responsive-menu="accordion">
-<li class="menu-text"><img src="img/tagee_logo.png" alt="Logo" width="30"></li>
+<li class="menu-text hide-for-portrait"><img src="img/tagee_logo.png" alt="Logo" width="30"></li>
 </ul>
 </div>
 <div class="top-bar-right">
-    <ul class="dropdown menu" data-dropdown-menu>
+    <ul class="dropdown vertical medium-horizontal menu" data-dropdown-menu>
 <li><a href="#">Favorite</a></li>
 <li><a href="#">Sports</a></li>
       <li class="has-submenu">
